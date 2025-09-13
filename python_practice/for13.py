@@ -4,7 +4,7 @@ total = 0
 x = 2 
 n = 0
 term = 5
-while( term):
+while(term):
     p = pow(x,n)
     f = math.factorial(n)
     # print(p/f)
